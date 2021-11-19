@@ -7,7 +7,6 @@ import routes from './routes';
 
 const App = () => {
   const content = useRoutes(routes);
-
   return (
     <StyledEngineProvider injectFirst>
       <ThemeProvider theme={theme}>

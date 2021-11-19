@@ -66,6 +66,11 @@ const items = [
     title: 'Register'
   },
   {
+    href: '/app/blog',
+    icon: UserPlusIcon,
+    title: 'Blog'
+  },
+  {
     href: '/404',
     icon: AlertCircleIcon,
     title: 'Error'
